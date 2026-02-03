@@ -129,6 +129,10 @@ body {
     padding: 12px 12px;
 }
 
+.baslik {
+    align-content: center;
+}
+
 .collapses {
     transition: 0.3s all ease-in !important;
 }
@@ -253,10 +257,11 @@ body {
 
 /* cards */
 
-.card{
+.card {
     overflow: hidden;
     box-shadow: 2px 3px 5px 1px rgb(0 0 0 / 10%);
 }
+
 .card-borders {
     border: 1px solid rgb(222, 222, 222);
 }
