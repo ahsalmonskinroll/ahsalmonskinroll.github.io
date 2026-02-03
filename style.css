@@ -128,7 +128,7 @@ body {
 .padding-button {
     padding: 12px 12px;
 }
-
+/*navbar düzeni için*/
 .baslik {
     align-content: center;
 }
@@ -464,3 +464,4 @@ footer .container {
         width: 220px;
     }
 }
+
